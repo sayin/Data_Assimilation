@@ -3,10 +3,10 @@
 # These codes require understanding of Linear Algebra, Adjoint Optimization, and Probability theory**
 
 1. **HW1--Satellite radiance problem :**
-  1. Solve using LU (normal equation approach by Grammian)
-  1. Solve using QR approach
-  1. Solve using SVD approach
-  1. 2D interpolation using bilinear least squares
+    1. Solve using LU (normal equation approach by Grammian)
+    1. Solve using QR approach
+    1. Solve using SVD approach
+    1. 2D interpolation using bilinear least squares
   
 1. **HW2-4D-VAR/Adjoint Optimisation(ODE-Lorenz Systerm):**
   1. Linear 4D-VAR):
