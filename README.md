@@ -39,5 +39,4 @@
       1. Reduced-rank square root (RRSQRT) filter.
       1. Unscented Kalman Filter method.
   
-1. **Project**
-      1. Deterministic and stochastic ensemble KF approaches for 1D nonlinear Korteweg de Vries (KdV) PDE.
+1. **Project- Deterministic and stochastic ensemble KF approaches for 1D nonlinear Korteweg de Vries (KdV) PDE**.
