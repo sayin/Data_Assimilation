@@ -12,7 +12,7 @@
     1. Linear 4D-VAR):
     1. Nonlinear 4D-VAR
   
-1. **HW3-Optimisation:**
+1. **HW3-Gradeint based Optimisation:**
      1. Newton/Gradient Method.
      1. Conjugate Gradient.
      1. Broyden–Fletcher–Goldfarb–Shanno (BFGS) Algorithm.
